@@ -9,18 +9,26 @@ All the libraries used are in their default versions of kaggle. When you copy a 
 It takes about 20 minutes to run.
 
 
-["Generate dataset"](https://www.kaggle.com/code/act18l/generate-dataset)
+1. ["Generate dataset"](https://www.kaggle.com/code/act18l/generate-dataset)
 
-["Single Model"](https://www.kaggle.com/code/act18l/single-model-for-geology-forecast-challenge) 
+2. ["Single Model"](https://www.kaggle.com/code/act18l/single-model-for-geology-forecast-challenge) 
 
 The dataset ["geo_submission"](https://www.kaggle.com/datasets/act18l/geo-submission/data) contains  the results from  versions of the above notebooks.
 
 
-["Emsemble"](https://www.kaggle.com/code/act18l/ensemble-for-geology-forecast-challenge)
+3. ["Ensemble"](https://www.kaggle.com/code/act18l/ensemble-for-geology-forecast-challenge)
 
 In the competition, I chose to  **"Single Model(Version 25)"** and **"Ensemble(Version 9)"** as my submission.
 
-You can use "Compare Versions" to check the code changes.
+You can use "Compare Versions" to check the code changes in kaggle.
+```
+Geology-Forecast-Challenge/
+├── generate-dataset.ipynb         ← 1.Generate dataset
+├── single-model-for-geology-forecast-challenge.ipynb         ← 2.Single Model
+├── ensemble-for-geology-forecast-challenge.ipynb         ← 3.Ensemble
+├── LICENSE                       ← License file
+└── README.md                     ← README file
+```
 
 ## Data Section
 I used the original data and the provided interpolation script to extract more training data. Finally, I obtained 314,360 samples.
