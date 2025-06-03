@@ -9,14 +9,14 @@ All the libraries used are in their default versions of kaggle. When you copy a 
 It takes about 20 minutes to run.
 
 
-1. ["Generate dataset"](https://www.kaggle.com/code/act18l/generate-dataset)
+1. ["Generate dataset"](https://github.com/dkhonker/Geology-Forecast-Challenge/blob/main/generate-dataset.ipynb)
 
-2. ["Single Model"](https://www.kaggle.com/code/act18l/single-model-for-geology-forecast-challenge) 
+2. ["Single Model"](https://github.com/dkhonker/Geology-Forecast-Challenge/blob/main/single-model-for-geology-forecast-challenge.ipynb)
 
 The dataset ["geo_submission"](https://www.kaggle.com/datasets/act18l/geo-submission/data) contains  the results from  versions of the above notebooks.
 
 
-3. ["Ensemble"](https://www.kaggle.com/code/act18l/ensemble-for-geology-forecast-challenge)
+3. ["Ensemble"](https://github.com/dkhonker/Geology-Forecast-Challenge/blob/main/ensemble-for-geology-forecast-challenge.ipynb)
 
 In the competition, I chose to  **"Single Model(Version 25)"** and **"Ensemble(Version 9)"** as my submission.
 
