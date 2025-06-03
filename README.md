@@ -4,6 +4,11 @@ Geology Forecast Challenge 1st solution
 ## How to run 
 All the code runs on Kaggle. All the training runs on Kaggle P100. You can run it there as you like.
 
+All the libraries used are in their default versions of kaggle. When you copy a notebook on Kaggle, the environment is copied too.
+
+It takes about 20 minutes to run.
+
+
 ["Generate dataset"](https://www.kaggle.com/code/act18l/generate-dataset)
 
 ["Single Model"](https://www.kaggle.com/code/act18l/single-model-for-geology-forecast-challenge) 
