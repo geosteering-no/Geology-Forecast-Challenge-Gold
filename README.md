@@ -1,5 +1,5 @@
 # Geology-Forecast-Challenge
-[Kaggle Geology Forecast Challenge](https://www.kaggle.com/competitions/geology-forecast-challenge) 1st solution
+[Kaggle Geology Forecast Challenge](https://www.kaggle.com/competitions/geology-forecast-challenge-open) 1st solution
 
 ## How to run 
 All the code runs on Kaggle. All the training runs on Kaggle P100. You can run it there as you like.
