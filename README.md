@@ -8,6 +8,9 @@ All the libraries used are in their default versions of kaggle. When you copy a 
 
 It takes about 20 minutes to run.
 
+Models and outputs are both saved in [the output of the Kaggle Notebook](https://www.kaggle.com/code/act18l/single-model-for-geology-forecast-challenge/output).
+
+
 
 1. ["Generate dataset"](https://github.com/dkhonker/Geology-Forecast-Challenge/blob/main/generate-dataset.ipynb)
 
