@@ -11,6 +11,8 @@ It takes about 20 minutes to run.
 
 1. ["Generate dataset"](https://github.com/dkhonker/Geology-Forecast-Challenge/blob/main/generate-dataset.ipynb)
 
+The final data can be found [here](https://www.kaggle.com/datasets/act18l/geology-merge).
+
 2. ["Single Model"](https://github.com/dkhonker/Geology-Forecast-Challenge/blob/main/single-model-for-geology-forecast-challenge.ipynb)
 
 The dataset ["geo_submission"](https://www.kaggle.com/datasets/act18l/geo-submission/data) contains  the results from  versions of the above notebooks.
