@@ -85,6 +85,12 @@ def cross_validate(X, y, X_test, k_matrix, n_folds=5):
     return avg_val_loss,y_oof,y_test
 
 if __name__ == "__main__":
-    model = build_model(input_dim=300, output_dim=300)
+    models = [] 
+    for i in range(5):
+        model = build_model(input_dim=300, output_dim=300)
+        model.load_weights(f"trained_models/model_fold_{i}.h5")  # Load weights for each fold
+        models.append(model)
+
+
 
     
